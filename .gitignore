@@ -35,7 +35,7 @@ pip-delete-this-directory.txt
 *.code-workspace
 
 # Logs
-logs/
+logs/tail
 *.log
 npm-debug.log*
 yarn-debug.log*
