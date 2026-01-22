@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Emily Martinez",
+    "date_of_birth": "1999-03-12",
+    "sex_at_birth": "F",
+    "email": "emily.martinez@email.com",
+    "mobile_number": "+1-555-0101",
+    "address": "456 Oak Avenue, Apt 3B, Seattle, WA 98101",
+    "emergency_contact": "Maria Martinez (Mother): +1-555-0102",
+    "insurance_details": "Aetna Health Insurance, Policy #: AET-892345, Group #: 12345, Effective: 01/2024",
+    "chronic_conditions": "Type 1 Diabetes (diagnosed 2015), Severe Asthma (diagnosed 2010), Chronic Kidney Disease Stage 3, Hypothyroidism",
+    "allergies": "Penicillin (anaphylaxis), Sulfa drugs (severe rash), Shellfish (anaphylaxis), Tree nuts (swelling)"
+  },
+  {
+    "name": "Robert Chen",
+    "date_of_birth": "1984-07-22",
+    "sex_at_birth": "M",
+    "email": "robert.chen@workmail.com",
+    "mobile_number": "+1-555-0203",
+    "address": "789 Maple Street, San Francisco, CA 94102",
+    "emergency_contact": "Lisa Chen (Spouse): +1-555-0204",
+    "insurance_details": "Blue Cross Blue Shield, Policy #: BCBS-445678, Group #: 98765, Effective: 03/2023, Deductible: $1500",
+    "chronic_conditions": "Hypertension (controlled), Hyperlipidemia, Pre-diabetes",
+    "allergies": "Latex (contact dermatitis), Aspirin (gastrointestinal bleeding)"
+  },
+  {
+    "name": "Sarah Johnson",
+    "date_of_birth": "1989-11-08",
+    "sex_at_birth": "F",
+    "email": "sarah.johnson35@gmail.com",
+    "mobile_number": "+1-555-0305",
+    "address": "321 Pine Boulevard, Unit 12, Austin, TX 78701",
+    "emergency_contact": "David Johnson (Husband): +1-555-0306, Jessica Johnson (Sister): +1-555-0307",
+    "insurance_details": "UnitedHealthcare PPO, Policy #: UHC-778899, Group #: 54321, Effective: 06/2022, Co-pay: $30",
+    "chronic_conditions": "Rheumatoid Arthritis (active), Migraines (chronic), Anxiety Disorder (managed with therapy)",
+    "allergies": "Ibuprofen (severe rash), Codeine (nausea and vomiting), Pollen (seasonal allergies)"
+  }
+]

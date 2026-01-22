@@ -1,0 +1,93 @@
+# Dependencies
+node_modules/
+venv/
+env/
+ENV/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Package manager locks (some teams choose to commit these)
+# package-lock.json
+# yarn.lock
+# poetry.lock
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.code-workspace
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+.eggs/
+out/
+target/
+
+# Testing
+.coverage
+.pytest_cache/
+coverage/
+.nyc_output/
+htmlcov/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+*.bak
+
+# OS files
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Python specific
+*.py[cod]
+*$py.class
+.Python
+pip-log.txt
+.installed.cfg
+*.egg
+MANIFEST
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Node specific
+.npm
+.eslintcache
+.node_repl_history
+.yarn-integrity
